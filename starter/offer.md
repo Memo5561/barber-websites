@@ -1,22 +1,55 @@
 # Starter Paket
 
-## Für wen?
-Für Friseure und Barbershops, die eine moderne Website brauchen, um online sichtbar und professionell erreichbar zu sein.
+## Für wen ist dieses Paket?
 
-## Enthalten
+Dieses Paket ist ideal für Friseure und Barbershops, die:
+
+- noch keine Website haben
+- aktuell nur über Instagram erreichbar sind
+- einen einfachen, professionellen Online-Auftritt wollen
+- für Kunden leichter erreichbar sein möchten
+
+---
+
+## Was ist enthalten?
+
 - Moderne Onepage Website
-- Startbereich mit starkem Ersteindruck
-- Leistungen
-- Preise
-- Kontaktbereich
-- WhatsApp Button
+- Starker Startbereich (Hero Section)
+- Übersicht deiner Leistungen
+- Preisübersicht
+- Kontaktbereich mit Telefonnummer
+- WhatsApp Button (direkter Kundenkontakt)
 - Google Maps Einbindung
-- mobil optimiert
+- mobil optimiert (perfekt für Handy-Nutzer)
 
-## Vorteil für den Kunden
-- Professioneller erster Eindruck
-- Kunden finden schneller Kontakt
-- Mehr Vertrauen als nur mit Instagram
+---
+
+## Was bringt dir diese Website?
+
+- Professioneller erster Eindruck bei neuen Kunden
+- Kunden können dich schnell kontaktieren
+- Mehr Vertrauen als nur Social Media
+- Bessere Auffindbarkeit online
+- Klare Darstellung deiner Leistungen und Preise
+
+---
+
+## Ablauf
+
+1. Du schickst mir deine Infos (Name, Preise, Bilder, Adresse)
+2. Ich erstelle die Website für dich
+3. Du bekommst eine Vorschau (Demo)
+4. Anpassungen werden gemacht
+5. Website geht online
+
+---
 
 ## Preis
+
 199€
+
+---
+
+## Hinweis
+
+Eine fertige Demo-Website ist bereits vorhanden und kann auf Anfrage gezeigt und individuell angepasst werden.
