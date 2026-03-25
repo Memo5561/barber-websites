@@ -1,2 +1,29 @@
-# barber-websites
-Websites for barbershops (Starter, Business, Premium) built with Next.js
+# Barber Website Templates
+
+Ich erstelle moderne Websites für Friseure und Barbershops.
+
+## Pakete
+
+### Starter
+- Onepage Website
+- Leistungen
+- Preise
+- Kontakt
+- WhatsApp Button
+
+### Business
+- Alles aus Starter
+- Galerie
+- Über uns
+- Kontaktformular
+- Impressum / Datenschutz
+
+### Premium
+- Alles aus Business
+- Premium Design
+- Terminbuchung
+- mehrere Seiten
+- Reviews
+
+## Ziel
+Websites bauen und an echte Kunden verkaufen.
