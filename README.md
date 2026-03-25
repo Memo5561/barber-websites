@@ -1,3 +1,7 @@
+## Demo
+Ich habe eine fertige Demo-Website für Barbershops.
+Auf Anfrage kann ich eine Live-Demo zeigen oder direkt anpassen.
+
 # Barber Website Templates
 
 Ich erstelle moderne Websites für Friseure und Barbershops.
